@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <main className={`${poppins.className} min-h-screen bg-[#FAF9F6] flex flex-col items-center justify-center px-4`}>
       <Image
-        src="/Logos/Logo Ver 2 (Transparent).png"
+        src="/Logos/Lone Camera Ver 2 Resized.png"
         alt="Orbit Booth Logo"
         width={300}
         height={300}
